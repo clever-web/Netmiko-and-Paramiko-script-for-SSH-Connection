@@ -1,0 +1,1 @@
+devicetype: ubuntu, device: 209.250.230.110, username: root, password: M)2bFH8UE%+dP]f?
